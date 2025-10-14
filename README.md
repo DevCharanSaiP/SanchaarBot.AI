@@ -9,43 +9,43 @@
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 **AI-Powered Conversational Interface**
+### **AI-Powered Conversational Interface**
 - Natural language trip planning and assistance
 - AWS Bedrock integration for intelligent responses
 - Context-aware conversations with memory
 
-### ✈️ **Smart Travel Booking**
+### **Smart Travel Booking**
 - Real-time flight search and booking (Amadeus, Skyscanner)
 - Hotel recommendations and reservations (Booking.com, Expedia)
 - Car rental integration with price comparisons
 
-### 📅 **Intelligent Itinerary Planning**
+### **Intelligent Itinerary Planning**
 - AI-generated personalized itineraries
 - Manual itinerary creation and editing
 - Budget tracking and expense management
 - PDF export functionality
 
-### 🚨 **Real-Time Travel Alerts**
+### **Real-Time Travel Alerts**
 - Flight delay and gate change notifications
 - Weather alerts and advisories
 - Travel news and security updates
 - Document expiration reminders
 
-### 📄 **Document Management System**
+### **Document Management System**
 - Secure cloud storage (AWS S3)
 - OCR text extraction (AWS Textract)
 - Document categorization and organization
 - Backup and sharing capabilities
 
-### 🌍 **Multi-Language Translation**
+### **Multi-Language Translation**
 - Text translation with AWS Translate
 - Travel phrase suggestions
 - Document translation support
 - 100+ supported languages
 
-### 📱 **Responsive Dashboard**
+### **Responsive Dashboard**
 - Mobile-first design
 - Real-time notifications
 - Drag-and-drop file uploads
@@ -53,7 +53,7 @@
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
@@ -132,19 +132,19 @@ SanchaarBot.AI/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
-- **Python 3.9+** 🐍
-- **Node.js 16+** & **npm** 📦
+- **Python 3.9+** 
+- **Node.js 16+** & **npm** 
 - **Git** 🔧
-- **AWS Account** (optional for full features) ☁️
+- **AWS Account** (optional for full features) 
 
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/SanchaarBot.AI.git
+git clone https://github.com/DevCharanSaiP/SanchaarBot.AI.git
 cd SanchaarBot.AI
 ```
 
